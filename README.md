@@ -13,7 +13,7 @@
 
 <br></br>
 <h3 align="center">❓ Who Am I</h3>
-  <div align="center"><ul><li>Major in Information Convergence, Kwangwoon University</li></ul></div>
+  <div align="center">Major in Information Convergence, Kwangwoon University</div>
 <div align="center">Desire responsible entry position in Data Engineering</div>
 <div align="center">Interested in Natural Language Processing, Recommendation Algorithms</div>
 
