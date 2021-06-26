@@ -10,7 +10,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=susie-choi" height="165">  
 
 ### Skills
-<p
 - Data-Engineering :  
 <span><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/R-e34f26?style=for-the-badge&logo=r&logoColor=white"/></span>
