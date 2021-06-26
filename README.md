@@ -12,12 +12,11 @@
 </p>
 
 <br></br>
-
 <h3 align="center">❓ Who Am I</h3>
 <p align="center">
-  Major in Information Convergence, Kwangwoon University
-  Desire responsible entry position in Data Engineering
-  Interested in Natural Language Processing, Recommendation Algorithms
+  Major in Information Convergence, Kwangwoon University  
+  Desire responsible entry position in Data Engineering  
+  Interested in Natural Language Processing, Recommendation Algorithms  
 </p>
 
 <h4 align="center">💻 The technology I use recently 🖱</h4>
