@@ -1,16 +1,16 @@
 # 🙋‍♀️ Hi there! I'm Susie
-
+<p align="center">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsusie-choi%2Fhit-counter&count_bg=%23F2916D&title_bg=%230D0D0D&icon=github.svg&icon_color=%23FFFFFF&title=Hits+&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:sschoidev@gmail.com)](mailto:sschoidev@gmail.com)
+</p>
 
-<h3 align="center">Who Am I</h3>
+<h2 align="center">Who Am I</h2>
 
-<h3 align="center">Experience</h3>
+<h2 align="center">Experience</h2>
 
-<h3 align="center">Skills</h3>
-<p align="center">
-💻 The technology I use recently  
-  
+<h2 align="center">Skills</h2>
+<h3 align="center">💻 The technology I use recently</h3>
+<p align="center">  
 <span><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></span>
 </p>
