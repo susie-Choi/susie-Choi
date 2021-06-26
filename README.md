@@ -42,6 +42,7 @@ Else
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=susie-choi" height="200">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="200">
 
+<br></br>
 <h3 align="center">More Information..</h3>
 <p align="center">
 Resume :
