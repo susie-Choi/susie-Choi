@@ -45,6 +45,8 @@ Else
   
 <h3 align="center">More Information..</h3>
 <p align="center">
-- Resume : 
-- Portfolio : 
+Resume :
+<br>
+Portfolio : 
+<br>
 </p>
