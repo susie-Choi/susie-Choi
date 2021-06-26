@@ -10,7 +10,6 @@
 <p align="center">
   <!-- 이력서&자기소개서 위치-->
 </p>
-
 <br></br>
 <h3 align="center">❓ Who Am I</h3>
   <div align="center">Major in Information Convergence, Kwangwoon University</div>
