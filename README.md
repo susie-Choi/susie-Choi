@@ -43,18 +43,6 @@ Else
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="200">
 </p>
 
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-
-
 
 <h3 align="center">More Information..</h3>
 <p align="center">
