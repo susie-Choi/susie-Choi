@@ -40,7 +40,7 @@ Else
 </p>
 <p>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=susie-choi" height="200" width="400">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="150" width="400">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="180" width="400">
 </p>
 <br></br><br></br><br></br><br></br><br></br>
 
