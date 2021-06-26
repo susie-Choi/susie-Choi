@@ -7,7 +7,7 @@
 
 <h3 align="center">Experience</h3>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=susie-choi" height="200">  
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=susie-choi" height="200">  !-->
 
 <h3 align="center">Skills</h3>
 
