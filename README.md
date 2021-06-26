@@ -13,6 +13,7 @@
 <span><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></span>
 </p>
+<h4 align="center"> and More skills... </h4>
 <p align="center">
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></span>
