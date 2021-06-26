@@ -18,11 +18,10 @@
 <span><img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/R-e34f26?style=flat-square&logo=r&logoColor=white"/></span>
-
 <span><img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-sqaure&logo=C&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span>
 </p>
 <p>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=susie-choi" height="200" width="400">
