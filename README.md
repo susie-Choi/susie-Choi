@@ -1,7 +1,7 @@
-🙋‍♀️ Hi there! I'm Susie
 
 <p align="center">
   <img src="/thumb.png" width="150" height="150">
+  🙋‍♀️ Hi there! I'm Susie
 </p>
 
 <p align="center">
