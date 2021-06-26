@@ -7,7 +7,9 @@
   <a href="mailto:sschodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sschoidev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://susie-choi.github.io/" target="_blank"><img src="https://img.shields.io/badge/TechBlog-F2D091?style=flat-square&logo=GitHub%20Sponsors&logoColor=black"/></a>
 </p>
-
+<p align="center">
+  <!-- 이력서&자기소개서 위치-->
+</p>
 
 <br></br>
 <h3 align="center">❓ Who Am I</h3>
