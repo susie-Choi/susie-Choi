@@ -34,6 +34,7 @@
   <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></span>
 </p>
 
+<br></br>
 <p>
   <img align='left' src="https://github-readme-stats.vercel.app/api?username=susie-choi" height="200" width="400">
   <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="180" width="400">
