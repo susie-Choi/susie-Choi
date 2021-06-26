@@ -11,5 +11,26 @@
 
 ### Skills
 
+- Data-Engineering :  
+<span><img src="https://img.shields.io/badge/Python-e34f26?style=flat&logo=python&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/R-e34f26?style=flat&logo=r&logoColor=white"/></span>
+- Front-end :  
+<span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></span>
+- Database :  
+<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></span><br/>
+- Communication :  
+- Version Control :  
+<span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
+
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy">
+
+### More Information..
+
+- Resume : 
+- Portfolio : 
+
 
