@@ -2,17 +2,17 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsusie-choi%2Fhit-counter&count_bg=%23F2916D&title_bg=%230D0D0D&icon=github.svg&icon_color=%23FFFFFF&title=Hits+&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:sschoidev@gmail.com)](mailto:sschoidev@gmail.com)
-<p align="center">
-<h3>Who Am I</h3>
 
-<h3>Experience</h3>
+<h3 align="center">Who Am I</h3>
+
+<h3 align="center">Experience</h3>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=susie-choi" height="200">  
 
-<h3>Skills</h3>
+<h3 align="center">Skills</h3>
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="200">
-
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="200">  
+<p align="center">
 - Data-Engineering :  
 <span><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/R-e34f26?style=for-the-badge&logo=r&logoColor=white"/></span>
@@ -29,10 +29,10 @@
 - Else :  
 <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span>
-
-<h3>More Information..</h3>
-
+</p>
+  
+<h3 align="center">More Information..</h3>
+<p align="center">
 - Resume : 
 - Portfolio : 
-
 </p>
