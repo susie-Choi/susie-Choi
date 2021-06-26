@@ -9,7 +9,7 @@
 
 <h3 align="center">Skills</h3>
 <p align="center">
-💻 The technology I use recently
+💻 The technology I use recently  
 <span><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></span>
 </p>
