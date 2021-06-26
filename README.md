@@ -13,7 +13,12 @@
 
 <br></br>
 <h3 align="center">❓ Who Am I</h3>
-
+<p align="center">
+  - Major in Information Convergence, Kwangwoon University
+  - Desire responsible entry position in Data Engineering
+  - Interested in Natural Language Processing, Recommendation Algorithms
+</p>
+  
 <h4 align="center">💻 The technology I use recently 🖱</h4>
 <p align="center">  
   <span><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white"/></span>
