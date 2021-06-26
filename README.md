@@ -9,11 +9,11 @@
   <a href="mailto:sschodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sschoidev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<h3 align="center">Who Am I</h3>
+<h3 align="center">❓ Who Am I</h3>
 
-<h3 align="center">Experience</h3>
+<h3 align="center">❤ Experience</h3>
 
-<h3 align="center">Skills</h3>
+<h3 align="center">💪 Skills</h3>
 <h4 align="center">💻 The technology I use recently ⌨</h4>
 <p align="center">  
   <span><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white"/></span>
