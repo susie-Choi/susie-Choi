@@ -7,11 +7,7 @@
 
 <h3 align="center">Experience</h3>
 
-<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=susie-choi" height="200">  !-->
-
 <h3 align="center">Skills</h3>
-
-<!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="200">  !-->
 <p align="center">
 Data-Engineering <br>
 <span><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white"/></span>
@@ -43,6 +39,9 @@ Else
 <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span>
 </p>
   
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=susie-choi" height="200">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="200">
+
 <h3 align="center">More Information..</h3>
 <p align="center">
 Resume :
