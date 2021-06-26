@@ -1,6 +1,6 @@
 # 🙋‍♀️ Hi there! I'm Susie
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsusie-choi&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=true)](https://github.com/susie-choi) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsusie-choi%2Fhit-counter&count_bg=%23F2916D&title_bg=%230D0D0D&icon=github.svg&icon_color=%23FFFFFF&title=Hits+&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:haesoo9410@gmail.com) 
 
 
