@@ -11,7 +11,7 @@
 
 <h3 align="center">Skills</h3>
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="200">  
+<!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="200">  !-->
 <p align="center">
 - Data-Engineering :  
 <span><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white"/></span>
