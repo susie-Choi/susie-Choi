@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="/thumb.png" width="150" height="150">  
-  🙋‍♀️ Hi there! I'm Susie
+  <font> 🙋‍♀️ Hi there! I'm Susie </font>
 </p>
 
 <p align="center">
@@ -21,28 +21,28 @@
 </p>
 <h4 align="center"> and More Skills... </h4>
 <p align="center">
-<span><img src="https://img.shields.io/badge/R-e34f26?style=flat-square&logo=r&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></span>
+  <span><img   src="https://img.shields.io/badge/R-e34f26?style=flat-square&logo=r&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></span>
 </p>
 
 <p>
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=susie-choi" height="200" width="400">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="180" width="400">
+  <img align='left' src="https://github-readme-stats.vercel.app/api?username=susie-choi" height="200" width="400">
+  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="180" width="400">
 </p>
 <br></br><br></br><br></br><br></br><br></br>
 
 <h3 align="center">More Information..</h3>
 <p align="center">
-Resume :
-<br>
-Portfolio : 
-<br>
+  Resume :
+  <br>
+  Portfolio : 
+  <br>
 </p>
