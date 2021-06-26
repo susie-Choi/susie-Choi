@@ -12,8 +12,13 @@
 </p>
 
 <br></br>
+  <script>
+    ul {
+      display: table;
+      margin: 0 auto; }
+  </script>
 <h3 align="center">❓ Who Am I</h3>
-<ul align="center">
+<ul>
   <li> Major in Information Convergence, Kwangwoon University </li>
   <li> Desire responsible entry position in Data Engineering </li>
   <li> Interested in Natural Language Processing, Recommendation Algorithms </li>
