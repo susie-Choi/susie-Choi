@@ -14,8 +14,6 @@
 <br></br>
 <h3 align="center">❓ Who Am I</h3>
 
-<h3 align="center">💼 Experience</h3>
-
 <h4 align="center">💻 The technology I use recently 🖱</h4>
 <p align="center">  
   <span><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white"/></span>
@@ -34,6 +32,7 @@
   <span><img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></span>
 </p>
+<h3 align="center">💼 Experience</h3>
 
 <br></br>
 <p>
