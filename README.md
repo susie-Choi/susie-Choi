@@ -19,7 +19,7 @@
 </p>
 <p align="center">
 - Database  
-<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-sqaure&logo=MySQL&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></span>&nbsp;&nbsp;
 </p>
 <p align="center">
