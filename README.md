@@ -39,8 +39,8 @@ Else
 <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span>
 </p>
 <p>
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=susie-choi" height="200" width="500">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="200" width="500">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=susie-choi" height="200">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="200">
 </p>
 
 <br></br>
@@ -48,6 +48,12 @@ Else
 <br></br>
 <br></br>
 <br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
 
 
 <h3 align="center">More Information..</h3>
