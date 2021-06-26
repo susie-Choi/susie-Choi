@@ -16,7 +16,6 @@
 
 <h3 align="center">💼 Experience</h3>
 
-<h3 align="center">💪 Skills</h3>
 <h4 align="center">💻 The technology I use recently 🖱</h4>
 <p align="center">  
   <span><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white"/></span>
