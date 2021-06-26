@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="/thumb.png" width="150" height="150">  
-  <font> 🙋‍♀️ Hi there! I'm Susie </font>
+  <font size="6"> 🙋‍♀️ Hi there! I'm Susie </font>
 </p>
 
 <p align="center">
