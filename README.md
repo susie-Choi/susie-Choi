@@ -1,4 +1,4 @@
-### 🙋‍♀️ Hi there! I'm Susie
+<center> 🙋‍♀️ Hi there! I'm Susie <center>
 
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsusie-choi%2Fhit-counter&count_bg=%23F2916D&title_bg=%230D0D0D&icon=github.svg&icon_color=%23F2F2F2&title=VISIT+&edge_flat=true"/></a>
