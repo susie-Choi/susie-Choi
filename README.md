@@ -10,6 +10,9 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=susie-choi" height="200">  
 
 ### Skills
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="200">
+
 - Data-Engineering :  
 <span><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/R-e34f26?style=for-the-badge&logo=r&logoColor=white"/></span>
@@ -26,8 +29,6 @@
 - Else :  
 <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span>
-
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="200">
 
 ### More Information..
 
