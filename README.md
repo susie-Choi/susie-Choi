@@ -4,7 +4,7 @@
   <a href="mailto:sschodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sschoidev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<br></br><br></br>
+<br></br>
 <p align="center">
   <img src="/thumb.png" width="150" height="150">
 </p>
