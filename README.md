@@ -33,7 +33,7 @@
   <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/></span>
 </p>
-<h4 align="center"✏ Member of... </h4>
+<h4 align="center">✏ Member of... </h4>
   <div align="center">정융팡팡, the Algorithms Study of Kwangwoon University (2020.10 ~ )</div>
 
 <br></br>
