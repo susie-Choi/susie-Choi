@@ -14,7 +14,7 @@
 <h3 align="center">❓ Who Am I</h3>
   <div align="center">Major in Data Science, Kwangwoon University</div>
 <div align="center">Desire responsible entry position in Data Engineering</div>
-<div align="center">Interested in Natural Language Processing</div>
+<div align="center">Interested in Korean Natural Language Processing</div>
 
 <h4 align="center">💻 The technology I use recently 🖱</h4>
 <p align="center">  
