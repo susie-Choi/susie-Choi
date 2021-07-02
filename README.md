@@ -34,7 +34,7 @@
   <span><img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/></span>
 </p>
 <h4 align="center">✏ Member of... </h4>
-  <div align="center">정융팡팡, the Competition & Algorithms Study of Kwangwoon University (2020.10 ~ )</div>
+  <div align="center">정융팡팡, the AI Competition & Algorithms Study of Kwangwoon University (2020.10 ~ )</div>
 
 <br></br>
 <p>
