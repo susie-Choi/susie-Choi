@@ -16,21 +16,7 @@
 <div align="center">Desire responsible entry position in Data Engineering</div>
 <div align="center">Interested in Korean Natural Language Processing</div>
 
-<h4 align="center">💻 The technology I use recently 🖱</h4>
-<p align="center">  
-  <span><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></span>
-</p>
-<h4 align="center"> and More Skills... </h4>
-<p align="center">
-  <span><img   src="https://img.shields.io/badge/R-e34f26?style=flat-square&logo=r&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/></span>
-</p>
+
 <h4 align="center">✏ Member of... </h4>
   <div align="center">정융팡팡, the AI Competition & Algorithms Study of Kwangwoon University (2020.10 ~ )</div>
 
