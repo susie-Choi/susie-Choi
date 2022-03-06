@@ -23,5 +23,5 @@
 <br></br>
 <p>
   <img align='left' src="https://github-readme-stats.vercel.app/api?username=susie-choi&theme=graywhite" height="200" width="400">
-  <!-- 잠시 일정상 10월까지 백준 보류 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="180" width="400"> -->
+  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="180" width="400">
 </p>
