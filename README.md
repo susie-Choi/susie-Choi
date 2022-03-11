@@ -18,7 +18,7 @@
 
 
 <h4 align="center">✏ Member of... </h4>
-  <div align="center">정융팡팡, the AI Competition & Algorithms Study of Kwangwoon University (2020.10 ~ )</div>
+  <div align="center">광운팡팡, the AI Competition & Algorithms Study of Kwangwoon University (2020.10 ~ )</div>
   <div align="center">42seoul, Software training program of Innovation Academy (2022.01 ~ )</div>
 
 <br></br>
