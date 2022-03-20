@@ -14,7 +14,7 @@
 <br>
 <h3 align="center">❓ Who Am I</h3>
   <div align="center">Major in Data Science, Kwangwoon University</div>
-<div align="center">Interested in Data Analysis</div>
+<div align="center">Interested in Data Analysis, and Data Engineering</div>
 
 
 <h4 align="center">✏ Member of... </h4>
