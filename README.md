@@ -6,6 +6,7 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsusie-choi%2Fhit-counter&count_bg=%23F2916D&title_bg=%230D0D0D&icon=github.svg&icon_color=%23F2F2F2&title=VISIT+&edge_flat=true"/></a>
   <a href="mailto:sschodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sschoidev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://velog.io/@susie" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
   <!--<a href="https://susie-choi.github.io/" target="_blank"><img src="https://img.shields.io/badge/techBlog(closed)-F2D091?style=flat-square&logo=GitHub%20Sponsors&logoColor=black"/></a> -->
 </p>
 <p align="center">
@@ -24,5 +25,5 @@
 <br></br>
 <p>
   <img align='left' src="https://github-readme-stats.vercel.app/api?username=susie-choi&theme=graywhite" height="200" width="400">
-  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="180" width="400">
+  <!--<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="180" width="400">-->
 </p>
