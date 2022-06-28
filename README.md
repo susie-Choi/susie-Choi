@@ -16,12 +16,11 @@
   <div align="center">Major in Data Science, Kwangwoon University</div>
 <div align="center">Interested in Data Engineering</div>
 
-
+<--
 <h4 align="center">✏ Member of... </h4>
   <div align="center">광운팡팡, the AI Competition & Algorithms Study of Kwangwoon University (2020.10 ~ )</div>
   <div align="center">42seoul, Software training program of Innovation Academy (2022.01 ~ )</div>
-
-<br></br>
+-->
 <p>
   <img align='left' src="https://github-readme-stats.vercel.app/api?username=susie-choi&theme=graywhite" height="200" width="400">
   <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=waudy" height="180" width="400">
